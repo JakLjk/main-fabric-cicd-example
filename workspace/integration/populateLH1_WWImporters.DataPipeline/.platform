@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": "populateLH1_WWImporters"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "bcfc3900-ae31-b16c-4a51-efd41a1679d1"
+  }
+}
